@@ -1,2 +1,2 @@
-# rusty-albatross
-Rusty-Albatross is a GeoJSON CRUD API for PostGIS
+# Rusty-Albatross
+Rusty-Albatross is a GeoJSON CRUD API for PostGIS written in Rust
